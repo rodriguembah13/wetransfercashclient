@@ -1,0 +1,59 @@
+{
+  "MENUITEMS": {
+    "MAIN": {
+      "TEXT": "-- Main"
+    },
+    "HOME": {
+      "TEXT": "Accueil",
+      "LIST": {
+        "DASHBOARD1": "Tableau de bord 1",
+        "DASHBOARD2": "Tableau de bord 2",
+        "DOCTOR-DASHBOARD": "Tableau de bord du médecin",
+        "PATIENT-DASHBOARD": "Tableau de bord du Patient"
+      }
+    },
+    "SENDMONEY": {
+      "TEXT": "Send Money",
+      "LIST": {
+      }
+    },
+    "BALANCE": {
+      "TEXT": "Balance",
+      "LIST": {
+      }
+    },
+    "PREFUNDING": {
+      "TEXT": "Prefunding",
+      "LIST": {
+      }
+    },
+    "TRANSACTION": {
+      "TEXT": "Transaction",
+      "LIST": {
+        "ALL-TRANSACTION": "Transactions",
+        "ADD-TRANSACTION": "Add transaction",
+        "VIEW-TRANSACTION": "Detail transaction"
+      }
+    },
+    "CONTACT": {
+      "TEXT": "Contact",
+      "LIST": {
+        "ALL-CONTACT": "Contacts",
+        "ADD-CONTACT": "Add contact",
+        "EDIT-CONTACT": "Edit contact"
+      }
+    },
+    "APPS": {
+      "TEXT": "-- Apps"
+    },
+    "CALENDAR": {
+      "TEXT": "Calendar"
+    },
+    "TASK": {
+      "TEXT": "Task"
+    },
+    "CONTACTS": {
+      "TEXT": "Contacts"
+    }
+  }
+}
